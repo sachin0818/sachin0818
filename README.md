@@ -1,6 +1,4 @@
-Hi 👋, I'm Sachin
-
-Aspiring Java Developer | Backend Enthusiast
+<p align="center"># Hi, I'm Sachin</p> <p align="center">
 
 🚀 About Me
 
