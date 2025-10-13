@@ -1,7 +1,7 @@
 <p align="center">Hi, I'm Sachin</p>
 <hr>
 <p>About Me</p>
-<hr height="1px">
+<hr height=".5px">
 <p>I’m an aspiring Java Backend Developer passionate about building efficient, secure, and scalable web applications using Java, Spring Boot, and Hibernate.<br>
 Focused on improving my skills in Spring Framework, RESTful APIs, and database management, while exploring tools that enhance application performance and reliability.</p>
 <hr>
