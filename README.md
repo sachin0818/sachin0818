@@ -1,66 +1,68 @@
-<p align="center"># Hi, I'm Sachin</p> <p align="center">
+<p align="center">Hi, I'm Sachin</p>
+<p align="center"><img src="https://via.placeholder.com/600x2?text=" alt="line"></p>
 
-🚀 About Me
+<p align="center">About Me</p>
+<p>I’m an aspiring Java Backend Developer passionate about building efficient, secure, and scalable web applications using Java, Spring Boot, and Hibernate.<br>
+Focused on improving my skills in Spring Framework, RESTful APIs, and database management, while exploring tools that enhance application performance and reliability.</p>
 
-I’m an aspiring Java Backend Developer passionate about building efficient, secure, and scalable web applications using Java, Spring Boot, and Hibernate.
-Focused on improving my skills in Spring Framework, RESTful APIs, and database management, while exploring tools that enhance application performance and reliability.
+<p align="center"><img src="https://via.placeholder.com/600x2?text=" alt="line"></p>
 
-🔭 Currently Learning
+<p align="center">## Currently Learning</p>
+<ul>
+<li>Spring Security</li>
+<li>Docker & Kubernetes</li>
+<li>Redis & Kafka</li>
+</ul>
 
-Spring Security
+<p align="center"><img src="https://via.placeholder.com/600x2?text=" alt="line"></p>
 
-Docker & Kubernetes
+<p align="center">## Interests</p>
+<ul>
+<li>Backend Development</li>
+<li>API Security</li>
+<li>Scalable and Cloud-Native Applications</li>
+</ul>
 
-Redis & Kafka
+<p align="center"><img src="https://via.placeholder.com/600x2?text=" alt="line"></p>
 
-💡 Interests
+<p align="center">## Ask Me About</p>
+<p>Java | Spring Boot | Hibernate | REST APIs | MySQL</p>
 
-Backend Development
+<p align="center"><img src="https://via.placeholder.com/600x2?text=" alt="line"></p>
 
-API Security
+<p align="center">## Skills & Technologies</p>
 
-Scalable and Cloud-Native Applications
+<p><b>Backend Development</b></p>
+<ul>
+<li>Java (Core & Advanced)</li>
+<li>Spring Boot, Spring MVC, Spring Data JPA, Spring Security</li>
+<li>Hibernate & JPA</li>
+<li>RESTful API Design</li>
+</ul>
 
-💬 Ask Me About
+<p><b>Databases</b></p>
+<ul>
+<li>MySQL</li>
+<li>PostgreSQL</li>
+</ul>
 
-Java | Spring Boot | Hibernate | REST APIs | MySQL
+<p><b>DevOps & Tools</b></p>
+<ul>
+<li>Git & GitHub</li>
+<li>Docker (Learning)</li>
+<li>Postman (API Testing)</li>
+<li>AWS Basics</li>
+<li>HTML, CSS</li>
+</ul>
 
-🛠️ Skills & Technologies
-Backend Development
+<p align="center"><img src="https://via.placeholder.com/600x2?text=" alt="line"></p>
 
-Java (Core & Advanced)
+<p align="center">## How to Reach Me</p>
+<p>Email: sachinpujari2803@gmail.com<br>
+LinkedIn: <a href="https://www.linkedin.com/in/sachin-dhangar/">https://www.linkedin.com/in/sachin-dhangar/</a><br>
+GitHub: Your GitHub Profile</p>
 
-Spring Boot, Spring MVC, Spring Data JPA, Spring Security
+<p align="center"><img src="https://via.placeholder.com/600x2?text=" alt="line"></p>
 
-Hibernate & JPA
-
-RESTful API Design
-
-Databases
-
-MySQL
-
-PostgreSQL
-
-DevOps & Tools
-
-Git & GitHub
-
-Docker (Learning)
-
-Postman (API Testing)
-
-AWS Basics
-
-HTML, CSS
-
-📫 How to Reach Me
-
-📧 Email: sachinpujari2803@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/sachin-dhangar/
-
-🔗 GitHub: Your GitHub Profile
-
-💡 I enjoy solving backend challenges, exploring Spring Boot features, and learning about cloud and DevOps tools.
-📌 Let’s connect and build something amazing together!
+<p>I enjoy solving backend challenges, exploring Spring Boot features, and learning about cloud and DevOps tools.<br>
+Let’s connect and build something amazing together!</p>
