@@ -1,7 +1,7 @@
 <p align="center">Hi, I'm Sachin</p>
 <hr>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin0818&style=flat&label=" />
+<img src="https://komarev.com/ghpvc/?username=sachin0818&style=flat-square&color=blue" />
 </p>
 
 <p>About Me</p>
