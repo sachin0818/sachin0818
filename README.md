@@ -50,8 +50,7 @@ Focused on improving my skills in Spring Framework, RESTful APIs, and database m
 <hr>
 <p>How to Reach Me</p>
 <p>Email: sachinpujari2803@gmail.com<br>
-LinkedIn: <a href="https://www.linkedin.com/in/sachin-dhangar/">https://www.linkedin.com/in/sachin-dhangar/</a><br>
-GitHub: Your GitHub Profile</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachin-blue)](https://www.linkedin.com/in/sachin-dhangar/)
 <hr>
 <p>I enjoy solving backend challenges, exploring Spring Boot features, and learning about cloud and DevOps tools.<br>
 Let’s connect and build something amazing together!</p>
