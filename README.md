@@ -1,6 +1,11 @@
-![Profile Views](https://komarev.com/ghpvc/?username=sachin0818&color=blue)
 <p align="center">Hi, I'm Sachin</p>
 <hr>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachin0818&style=for-the-badge&color=blue" />
+</p>
+
+<hr style="height:0.5px; border:none; background-color:#444;">
+
 <p>About Me</p>
 <hr style="border: 0; height: 0.5px; background-color: #000;">
 <p>I’m an aspiring Java Backend Developer passionate about building efficient, secure, and scalable web applications using Java, Spring Boot, and Hibernate.<br>
