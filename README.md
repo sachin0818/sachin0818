@@ -1,8 +1,9 @@
 <p align="center">Hi, I'm Sachin</p>
 <hr>
 <p align="center">
-  <img width="80" src="https://komarev.com/ghpvc/?username=sachin0818&style=flat&label=" />
+  <img src="https://komarev.com/ghpvc/?username=sachin0818&style=flat&label=" />
 </p>
+
 <p>About Me</p>
 <hr style="border: 0; height: 0.5px; background-color: #000;">
 <p>I’m an aspiring Java Backend Developer passionate about building efficient, secure, and scalable web applications using Java, Spring Boot, and Hibernate.<br>
